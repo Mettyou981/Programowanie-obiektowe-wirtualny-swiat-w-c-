@@ -1,0 +1,34 @@
+﻿  Antylopa.cpp
+C:\Users\mates\Desktop\studia\Programowanie Obiektowe\Wirtualny Swiat\Wirtualny Swiat\Antylopa.cpp(18,64): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+C:\Users\mates\Desktop\studia\Programowanie Obiektowe\Wirtualny Swiat\Wirtualny Swiat\Antylopa.cpp(18,64): warning C4267:         with
+C:\Users\mates\Desktop\studia\Programowanie Obiektowe\Wirtualny Swiat\Wirtualny Swiat\Antylopa.cpp(18,64): warning C4267:         [
+C:\Users\mates\Desktop\studia\Programowanie Obiektowe\Wirtualny Swiat\Wirtualny Swiat\Antylopa.cpp(18,64): warning C4267:             _Ty=int
+C:\Users\mates\Desktop\studia\Programowanie Obiektowe\Wirtualny Swiat\Wirtualny Swiat\Antylopa.cpp(18,64): warning C4267:         ]
+  BarszczSosnowskiego.cpp
+  CyberOwca.cpp
+  Czlowiek.cpp
+  Guarana.cpp
+  Lis.cpp
+C:\Users\mates\Desktop\studia\Programowanie Obiektowe\Wirtualny Swiat\Wirtualny Swiat\Lis.cpp(36,68): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+C:\Users\mates\Desktop\studia\Programowanie Obiektowe\Wirtualny Swiat\Wirtualny Swiat\Lis.cpp(36,68): warning C4267:         with
+C:\Users\mates\Desktop\studia\Programowanie Obiektowe\Wirtualny Swiat\Wirtualny Swiat\Lis.cpp(36,68): warning C4267:         [
+C:\Users\mates\Desktop\studia\Programowanie Obiektowe\Wirtualny Swiat\Wirtualny Swiat\Lis.cpp(36,68): warning C4267:             _Ty=int
+C:\Users\mates\Desktop\studia\Programowanie Obiektowe\Wirtualny Swiat\Wirtualny Swiat\Lis.cpp(36,68): warning C4267:         ]
+  Mlecz.cpp
+  Organizm.cpp
+  Owca.cpp
+  Roslina.cpp
+  Swiat.cpp
+  Trawa.cpp
+  WilczeJagody.cpp
+  Wilk.cpp
+  Wirtualny Swiat.cpp
+  Zolw.cpp
+  Zwierze.cpp
+C:\Users\mates\Desktop\studia\Programowanie Obiektowe\Wirtualny Swiat\Wirtualny Swiat\Zwierze.cpp(91,65): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+C:\Users\mates\Desktop\studia\Programowanie Obiektowe\Wirtualny Swiat\Wirtualny Swiat\Zwierze.cpp(91,65): warning C4267:         with
+C:\Users\mates\Desktop\studia\Programowanie Obiektowe\Wirtualny Swiat\Wirtualny Swiat\Zwierze.cpp(91,65): warning C4267:         [
+C:\Users\mates\Desktop\studia\Programowanie Obiektowe\Wirtualny Swiat\Wirtualny Swiat\Zwierze.cpp(91,65): warning C4267:             _Ty=int
+C:\Users\mates\Desktop\studia\Programowanie Obiektowe\Wirtualny Swiat\Wirtualny Swiat\Zwierze.cpp(91,65): warning C4267:         ]
+  Generating Code...
+  Wirtualny Swiat.vcxproj -> C:\Users\mates\Desktop\studia\Programowanie Obiektowe\Wirtualny Swiat\x64\Debug\Wirtualny Swiat.exe

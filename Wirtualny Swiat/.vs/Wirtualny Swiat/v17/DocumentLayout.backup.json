@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mates\\Desktop\\studia\\Obiektowka\\Wirtualny Swiat\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C31F90E6-5C97-4637-B577-DD465E65B2E7}|Wirtualny Swiat\\Wirtualny Swiat.vcxproj|C:\\Users\\mates\\Desktop\\studia\\Obiektowka\\Wirtualny Swiat\\Wirtualny Swiat\\Zwierze.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C31F90E6-5C97-4637-B577-DD465E65B2E7}|Wirtualny Swiat\\Wirtualny Swiat.vcxproj|solutionrelative:Wirtualny Swiat\\Zwierze.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C31F90E6-5C97-4637-B577-DD465E65B2E7}|Wirtualny Swiat\\Wirtualny Swiat.vcxproj|C:\\Users\\mates\\Desktop\\studia\\Obiektowka\\Wirtualny Swiat\\Wirtualny Swiat\\Organizm.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C31F90E6-5C97-4637-B577-DD465E65B2E7}|Wirtualny Swiat\\Wirtualny Swiat.vcxproj|solutionrelative:Wirtualny Swiat\\Organizm.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C31F90E6-5C97-4637-B577-DD465E65B2E7}|Wirtualny Swiat\\Wirtualny Swiat.vcxproj|C:\\Users\\mates\\Desktop\\studia\\Obiektowka\\Wirtualny Swiat\\Wirtualny Swiat\\Zolw.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C31F90E6-5C97-4637-B577-DD465E65B2E7}|Wirtualny Swiat\\Wirtualny Swiat.vcxproj|solutionrelative:Wirtualny Swiat\\Zolw.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Zolw.cpp",
+              "DocumentMoniker": "C:\\Users\\mates\\Desktop\\studia\\Obiektowka\\Wirtualny Swiat\\Wirtualny Swiat\\Zolw.cpp",
+              "RelativeDocumentMoniker": "Wirtualny Swiat\\Zolw.cpp",
+              "ToolTip": "C:\\Users\\mates\\Desktop\\studia\\Obiektowka\\Wirtualny Swiat\\Wirtualny Swiat\\Zolw.cpp",
+              "RelativeToolTip": "Wirtualny Swiat\\Zolw.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-23T16:24:25.782Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Zwierze.cpp",
+              "DocumentMoniker": "C:\\Users\\mates\\Desktop\\studia\\Obiektowka\\Wirtualny Swiat\\Wirtualny Swiat\\Zwierze.cpp",
+              "RelativeDocumentMoniker": "Wirtualny Swiat\\Zwierze.cpp",
+              "ToolTip": "C:\\Users\\mates\\Desktop\\studia\\Obiektowka\\Wirtualny Swiat\\Wirtualny Swiat\\Zwierze.cpp",
+              "RelativeToolTip": "Wirtualny Swiat\\Zwierze.cpp",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-23T16:24:10.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Organizm.cpp",
+              "DocumentMoniker": "C:\\Users\\mates\\Desktop\\studia\\Obiektowka\\Wirtualny Swiat\\Wirtualny Swiat\\Organizm.cpp",
+              "RelativeDocumentMoniker": "Wirtualny Swiat\\Organizm.cpp",
+              "ToolTip": "C:\\Users\\mates\\Desktop\\studia\\Obiektowka\\Wirtualny Swiat\\Wirtualny Swiat\\Organizm.cpp",
+              "RelativeToolTip": "Wirtualny Swiat\\Organizm.cpp",
+              "ViewState": "AgIAACYAAAAAAAAAAAAAADMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-23T16:10:30.325Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
